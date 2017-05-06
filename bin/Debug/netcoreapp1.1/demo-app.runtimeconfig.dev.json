@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/sebis/.nuget/packages"
+    ]
+  }
+}

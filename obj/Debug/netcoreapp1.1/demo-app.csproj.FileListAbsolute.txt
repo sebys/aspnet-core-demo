@@ -1,0 +1,8 @@
+/home/sebis/Documentos/demo-app/bin/Debug/netcoreapp1.1/demo-app.deps.json
+/home/sebis/Documentos/demo-app/bin/Debug/netcoreapp1.1/demo-app.runtimeconfig.json
+/home/sebis/Documentos/demo-app/bin/Debug/netcoreapp1.1/demo-app.runtimeconfig.dev.json
+/home/sebis/Documentos/demo-app/bin/Debug/netcoreapp1.1/demo-app.dll
+/home/sebis/Documentos/demo-app/bin/Debug/netcoreapp1.1/demo-app.pdb
+/home/sebis/Documentos/demo-app/obj/Debug/netcoreapp1.1/demo-app.AssemblyInfo.cs
+/home/sebis/Documentos/demo-app/obj/Debug/netcoreapp1.1/demo-app.dll
+/home/sebis/Documentos/demo-app/obj/Debug/netcoreapp1.1/demo-app.pdb
